@@ -3,16 +3,16 @@
 A new Flutter project.
 
  <table style='border:none;width:100%'>
-  <td style='width:33%;'>
-   
+  <td style='width:29%;'>
+   1.home page
    <img style='width:100%;' src='coffee1.png'>
   </td>
-  <td style='width:33%;'>
-
+  <td style='width:30%;'>
+2. details page
   <img style='width:100%;' src='coffee2.png'>
   </td>
-  <td style='width:33%;'>
-
+  <td style='width:40%;'>
+3. gif
   <img style='width:100%;' src='coffee_ui_gif.gif'>
   </td
  
